@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hembar/stats-preview-frontend-mentor.git)
+- Solution URL: [Add solution URL here](https://hembar.github.io/stats-preview-frontend-mentor/)
 
 ## My process
 
